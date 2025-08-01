@@ -20,15 +20,22 @@ A simple RESTful API to manage tasks using Node.js and Express.
 
 ## Run Instructions
 
-1. Install dependencies:
+### 1. Clone the repository:
+To clone the repository from GitHub, use the following command:
 ```bash
+git clone https://github.com/EkeneDeProgram/task-manager-api.git
+```
+
+### 2. Install dependencies:
+```bash
+cd task-manager-api
 npm install
 ```
-2. Start the development server:
+### 3. Start the development server:
 ```bash
 npm run dev
 ```
-3. Access the Swagger UI documentation at:
+### 4. Access the Swagger UI documentation at:
 http://localhost:3000/api-docs
 
 
